@@ -1,0 +1,6 @@
+  private void calcularActionPerformed(java.awt.event.ActionEvent evt) {                                         
+        // TODO add your handling code here:     
+        String mensaje;
+        
+        mensaje="El costo total es: "+tota.getSelectedValue(); error
+        tot.setText(mensaje);
